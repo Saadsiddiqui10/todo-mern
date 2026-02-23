@@ -1,6 +1,8 @@
 # ✅ Todo MERN App
 
 A full-stack Todo application built with **MongoDB, Express, React, and Node.js**.
+🌐 Live Demo: https://todo-mern-steel.vercel.app
+⚙️ Backend API: https://todo-mern-api-zh9p.onrender.com/api
 
 ## 📁 Project Structure
 
